@@ -1,2 +1,1 @@
-avoscloud.github.io
-===================
+# LeanCloud GitHub Pages
